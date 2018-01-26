@@ -12,10 +12,6 @@ app.use(express.static(__dirname + "/public"));
 app.get("/", function(req, res){
 	res.render("landing.ejs");
 });
-app.get("/chi-by-design", function(req, res){
-	res.render("chibydesign/index.ejs");
-});
-
 app.listen(process.env.port || 3000, function(){
 	console.log("Server has started");
 });

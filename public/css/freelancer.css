@@ -570,19 +570,19 @@ div#maincontent {
   margin-top: -100px;
 }
 .item{
-  background:linear-gradient(rgba(0,0,0,.7),transparent 100%),url(../img/grove.jpg);background-repeat:no-repeat;background-position:center center;background-attachment:scroll;background-size:cover;width:100%;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;padding-bottom:180px;text-align:center
+  background:linear-gradient(rgba(0,0,0,.7),transparent 100%),url(img/grove.jpg);background-repeat:no-repeat;background-position:center center;background-attachment:scroll;background-size:cover;width:100%;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;padding-bottom:180px;text-align:center
 }
 .two{
   background:linear-gradient(rgba(0,0,0,.7),transparent 100%),url(../img/CCT.jpg);background-repeat:no-repeat;background-position:center center;background-attachment:scroll;background-size:cover;width:100%;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;padding-bottom:180px;text-align:center
 }
 .three{
-  background:linear-gradient(rgba(0,0,0,.7),transparent 100%),url(../img/cpd.jpg);background-repeat:no-repeat;background-position:center center;background-attachment:scroll;background-size:cover;width:100%;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;padding-bottom:180px;text-align:center
+  background:linear-gradient(rgba(0,0,0,.7),transparent 100%),url(img/cpd.jpg);background-repeat:no-repeat;background-position:center center;background-attachment:scroll;background-size:cover;width:100%;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;padding-bottom:180px;text-align:center
 }
 .four{
-  background:linear-gradient(rgba(0,0,0,.7),transparent 100%),url(../img/grove.jpg);background-repeat:no-repeat;background-position:center center;background-attachment:scroll;background-size:cover;width:100%;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;padding-bottom:180px;text-align:center
+  background:linear-gradient(rgba(0,0,0,.7),transparent 100%),url(img/grove.jpg);background-repeat:no-repeat;background-position:center center;background-attachment:scroll;background-size:cover;width:100%;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;padding-bottom:180px;text-align:center
 }
 .five{
-  background:linear-gradient(rgba(0,0,0,.7),transparent 100%),url(../img/grove.jpg);background-repeat:no-repeat;background-position:center center;background-attachment:scroll;background-size:cover;width:100%;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;padding-bottom:180px;text-align:center
+  background:linear-gradient(rgba(0,0,0,.7),transparent 100%),url(img/grove.jpg);background-repeat:no-repeat;background-position:center center;background-attachment:scroll;background-size:cover;width:100%;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;padding-bottom:180px;text-align:center
 }
 @media(max-width:414px) {
     header {

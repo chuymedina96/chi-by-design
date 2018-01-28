@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Baloo+Bhaijaan|Oswald|Roboto|Ubuntu');
+
+@import url('https://fonts.googleapis.com/css?family=Monoton|Rubik+Mono+One');
 body {
   background-color: #000;
 }
@@ -6,12 +8,12 @@ body {
   z-index: 1;
   position: relative;
   text-align: center;
-  padding-top: 17vh;
+  padding-top: 30vh;
 }
 #landing-header h1 {
   color: #fff;
   font-size: 100px;
-  font-family: 'Baloo Bhaijaan', cursive;
+  font-family: 'Monoton', cursive;
 }
 .views{
   font-family: 'Baloo Bhaijaan', cursive;
@@ -39,7 +41,7 @@ body {
   background-repeat: no-repeat;
   opacity: 0;
   z-index: 0;
-  animation: imageAnimation 50s linear infinite; 
+  animation: imageAnimation 32s linear infinite; 
 }
 .slideshow li:nth-child(1) { 
   background-image: url(img3.jpg)

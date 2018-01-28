@@ -17,7 +17,6 @@ app.get("/chibydesign", function(req, res){
 app.get("*", function(req, res){
 	res.render("404");
 });
-
 app.listen(process.env.PORT || 3000, function(){
 	console.log("Server has started");
 });

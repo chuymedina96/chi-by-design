@@ -41,13 +41,13 @@ body {
   background-repeat: no-repeat;
   opacity: 0;
   z-index: 0;
-  animation: imageAnimation 32s linear infinite; 
+  animation: imageAnimation 35s linear infinite; 
 }
 .slideshow li:nth-child(1) { 
   background-image: url(img3.jpg)
 }
 .slideshow li:nth-child(2) { 
-  background-image: url(dope.jpg);
+  background-image: url(laptop.jpg);
   animation-delay: 5s; 
 }
 .slideshow li:nth-child(3) { 
@@ -55,7 +55,7 @@ body {
   animation-delay: 10s; 
 }
 .slideshow li:nth-child(4) { 
-  background-image: url(kids.jpg);
+  background-image: url(kids-fun.jpg);
   animation-delay: 15s; 
 }
 .slideshow li:nth-child(5) { 

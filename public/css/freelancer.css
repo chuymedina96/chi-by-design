@@ -24,12 +24,15 @@ a.active {
 h1,
 h2,
 h3,
-h4,
 h5,
 h6 {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
+}
+h4{
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 500;
 }
 hr.star-light,
 hr.star-primary {
@@ -200,7 +203,10 @@ section.success {
   background: #18BC9C;
   color: white;
   margin-bottom:0px;
-  margin-top:-100px;
+  margin-top:0px;
+}
+section#about{
+  background:radial-gradient(rgba(0,0,0,.9),transparent 105%),url(cpd-work-shop.jpg);background-repeat:no-repeat;background-position:center center;background-attachment:scroll;background-size:cover;width:100%;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;padding-bottom:180px;text-align:center;
 }
 #clients{
   background: black;
@@ -568,6 +574,7 @@ div#maincontent {
 .slide-height{
   height:990px;
   margin-top: -100px;
+  margin-bottom: -100px;
 }
 .item{
   background:linear-gradient(rgba(0,0,0,.8),transparent 100%),url(grove-work-shop.jpg);background-repeat:no-repeat;background-position:center center;background-attachment:scroll;background-size:cover;width:100%;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;padding-bottom:180px;text-align:center;

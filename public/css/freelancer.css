@@ -130,6 +130,8 @@ header .intro-text .skills {
 @media(max-width:414px) {
   #portfolioModal7 header h1{
     font-size: 50px;
+  }
+  #portfolioModal7 header{
     background-attachment: scroll;
   }
 }

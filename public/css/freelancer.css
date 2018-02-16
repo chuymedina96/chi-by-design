@@ -104,6 +104,34 @@ header .intro-text .skills {
   font-size: 1.25em;
   font-weight: 300; 
 }
+#portfolioModal7 header{
+  text-align: center;
+    color: #fff;
+    background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(img3.jpg) center center no-repeat;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size:cover;
+    width:100%;
+    height: 700px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    
+}
+#portfolioModal7 button{
+  border-radius: 60px;
+  background-color: black;
+  opacity: .8;
+}
+#portfolioModal7 .glyphicon{
+  font-size: 45px;
+}
+@media(max-width: 375px){
+  #portfolioModal7 header h1{
+    font-size: 50px;
+  }
+}
 @media (min-width: 768px) {
   header .container {
     padding-top: 200px;
@@ -573,19 +601,19 @@ div#maincontent {
   margin-bottom: -100px;
 }
 .item{
-  background:linear-gradient(rgba(0,0,0,.8),transparent 100%),url(grove-work-shop.jpg);background-repeat:no-repeat;background-position:center center;background-attachment:scroll;background-size:cover;width:100%;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;padding-bottom:180px;text-align:center;
+  background:linear-gradient(rgba(0,0,0,.8),transparent 100%),url(grove-work-shop.jpg);background-repeat:no-repeat;background-position:center center;background-attachment:fixed;background-size:cover;width:100%;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;padding-bottom:180px;text-align:center;
 }
 .two{
-  background:linear-gradient(rgba(0,0,0,.8),transparent 100%),url(expungeio.jpg);background-repeat:no-repeat;background-position:center center;background-attachment:scroll;background-size:cover;width:100%;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;padding-bottom:180px;text-align:center;
+  background:linear-gradient(rgba(0,0,0,.8),transparent 100%),url(expungeio.jpg);background-repeat:no-repeat;background-position:center center;background-attachment:fixed;background-size:cover;width:100%;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;padding-bottom:180px;text-align:center;
 }
 .three{
-  background:linear-gradient(rgba(0,0,0,.8),transparent 100%),url(kids-fun.jpg);background-repeat:no-repeat;background-position:center center;background-attachment:scroll;background-size:cover;width:100%;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;padding-bottom:180px;text-align:center;
+  background:linear-gradient(rgba(0,0,0,.8),transparent 100%),url(kids-fun.jpg);background-repeat:no-repeat;background-position:center center;background-attachment:fixed;background-size:cover;width:100%;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;padding-bottom:180px;text-align:center;
 }
 .four{
-  background:linear-gradient(rgba(0,0,0,.8),transparent 100%),url(cct-work-shop.jpg);background-repeat:no-repeat;background-position:center center;background-attachment:scroll;background-size:cover;width:100%;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;padding-bottom:180px;text-align:center;
+  background:linear-gradient(rgba(0,0,0,.8),transparent 100%),url(cct-work-shop.jpg);background-repeat:no-repeat;background-position:center center;background-attachment:fixed;background-size:cover;width:100%;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;padding-bottom:180px;text-align:center;
 }
 .five{
-  background:linear-gradient(rgba(0,0,0,.8),transparent 100%),url(cpd-work-shop.jpg);background-repeat:no-repeat;background-position:center center;background-attachment:scroll;background-size:cover;width:100%;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;padding-bottom:180px;text-align:center;
+  background:linear-gradient(rgba(0,0,0,.8),transparent 100%),url(cpd-work-shop.jpg);background-repeat:no-repeat;background-position:center center;background-attachment:fixed;background-size:cover;width:100%;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;padding-bottom:180px;text-align:center;
 }
 .btn{
   margin-top: 20px;

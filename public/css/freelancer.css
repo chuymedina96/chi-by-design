@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Monoton|Rubik+Mono+One');
+@import url('https://fonts.googleapis.com/css?family=Josefin+Slab');
 body {
   font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   overflow-x: hidden;
@@ -9,6 +10,7 @@ p {
 p.small {
   font-size: 16px;
 }
+
 a,
 a:hover,
 a:focus,
@@ -28,6 +30,13 @@ h6 {
 h4{
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 500;
+}
+#about h3 {
+  font-family: "Montserrat";
+}
+#learn-button{
+  border-radius: 0;
+  border-color: none;
 }
 hr.star-light,
 hr.star-primary {
@@ -68,7 +77,7 @@ hr.star-primary:after {
 header {
   text-align: center;
     color: #fff;
-    background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(../img/chicago.jpeg) center center no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, .1), rgba(0, 0, 0, .1)), url(../img/chicago.jpeg) center center no-repeat;
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: fixed;
@@ -233,7 +242,8 @@ section.success {
   margin-top:0px;
 }
 section#about{
-  background:radial-gradient(rgba(0,0,0,.9),transparent 105%),url(cpd-work-shop.jpg);background-repeat:no-repeat;background-position:center center;background-attachment:scroll;background-size:cover;width:100%;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;padding-bottom:180px;text-align:center;
+  background-color: white;
+  color: black;
 }
 #clients{
   background: black;
@@ -604,19 +614,19 @@ div#maincontent {
   margin-bottom: -100px;
 }
 .item{
-  background:linear-gradient(rgba(0,0,0,.8),transparent 100%),url(grove-work-shop.jpg);background-repeat:no-repeat;background-position:center center;background-attachment:scroll;background-size:cover;width:100%;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;padding-bottom:180px;text-align:center;
+  background:linear-gradient(rgba(0,0,0,.5),transparent 100%),url(grove-work-shop.jpg);background-repeat:no-repeat;background-position:center center;background-attachment:scroll;background-size:cover;width:100%;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;padding-bottom:180px;text-align:center;
 }
 .two{
-  background:linear-gradient(rgba(0,0,0,.8),transparent 100%),url(expungeio.jpg);background-repeat:no-repeat;background-position:center center;background-attachment:scroll;background-size:cover;width:100%;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;padding-bottom:180px;text-align:center;
+  background:linear-gradient(rgba(0,0,0,.5),transparent 100%),url(expungeio.jpg);background-repeat:no-repeat;background-position:center center;background-attachment:scroll;background-size:cover;width:100%;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;padding-bottom:180px;text-align:center;
 }
 .three{
-  background:linear-gradient(rgba(0,0,0,.8),transparent 100%),url(kids-fun.jpg);background-repeat:no-repeat;background-position:center center;background-attachment:scroll;background-size:cover;width:100%;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;padding-bottom:180px;text-align:center;
+  background:linear-gradient(rgba(0,0,0,.5),transparent 100%),url(kids-fun.jpg);background-repeat:no-repeat;background-position:center center;background-attachment:scroll;background-size:cover;width:100%;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;padding-bottom:180px;text-align:center;
 }
 .four{
-  background:linear-gradient(rgba(0,0,0,.8),transparent 100%),url(cct-work-shop.jpg);background-repeat:no-repeat;background-position:center center;background-attachment:scroll;background-size:cover;width:100%;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;padding-bottom:180px;text-align:center;
+  background:linear-gradient(rgba(0,0,0,.5),transparent 100%),url(cct-work-shop.jpg);background-repeat:no-repeat;background-position:center center;background-attachment:scroll;background-size:cover;width:100%;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;padding-bottom:180px;text-align:center;
 }
 .five{
-  background:linear-gradient(rgba(0,0,0,.8),transparent 100%),url(cpd-work-shop.jpg);background-repeat:no-repeat;background-position:center center;background-attachment:scroll;background-size:cover;width:100%;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;padding-bottom:180px;text-align:center;
+  background:linear-gradient(rgba(0,0,0,.5),transparent 100%),url(cpd-work-shop.jpg);background-repeat:no-repeat;background-position:center center;background-attachment:scroll;background-size:cover;width:100%;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;padding-bottom:180px;text-align:center;
 }
 .btn{
   margin-top: 20px;

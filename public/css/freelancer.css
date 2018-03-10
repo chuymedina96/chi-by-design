@@ -103,26 +103,6 @@ header .intro-text .skills {
 #portfolioModal7 .glyphicon{
   font-size: 45px;
 }
-@media(max-width:414px) {
-  #portfolioModal7 header h1{
-    font-size: 50px;
-  }
-  #portfolioModal7 header{
-    background-attachment: scroll;
-  }
-}
-@media (min-width: 768px) {
-  header .container {
-    padding-top: 200px;
-    padding-bottom: 100px;
-  }
-  header .intro-text .name {
-    font-size: 5.75em;
-  }
-  header .intro-text .skills {
-    font-size: 2.75em;
-  }
-}
 .navbar-custom {
   background-color:#008FB0;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -175,26 +155,6 @@ header .intro-text .skills {
   color: white;
   border-color: #18BC9C;
 }
-@media (min-width: 768px) {
-  .navbar-custom {
-    padding: 25px 0;
-    -webkit-transition: padding 0.3s;
-    -moz-transition: padding 0.3s;
-    transition: padding 0.3s;
-  }
-  .navbar-custom .navbar-brand {
-    font-size: 2em;
-    -webkit-transition: all 0.3s;
-    -moz-transition: all 0.3s;
-    transition: all 0.3s;
-  }
-  .navbar-custom.affix {
-    padding: 10px 0;
-  }
-  .navbar-custom.affix .navbar-brand {
-    font-size: 1.5em;
-  }
-}
 section {
   padding: 100px 0;
 }
@@ -224,14 +184,6 @@ section#about{
   height: 100px;
   width: 350px;
 }*/
-@media (max-width: 767px) {
-  section {
-    padding: 75px 0;
-  }
-  section.first {
-    padding-top: 75px;
-  }
-}
 #portfolio .portfolio-item {
   margin: 0 0 15px;
   right: 0;
@@ -274,11 +226,6 @@ section#about{
 }
 #portfolio * {
   z-index: 2;
-}
-@media (min-width: 767px) {
-  #portfolio .portfolio-item {
-    margin: 0 0 30px;
-  }
 }
 .floating-label-form-group {
   position: relative;
@@ -600,10 +547,4 @@ div#maincontent {
 }
 .case-title{
   font-size: 45px;
-}
-@media(max-width:414px) {
-    header {
-    background-attachment: scroll;
-    background-size:cover;
-    }
 }

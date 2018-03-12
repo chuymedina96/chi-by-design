@@ -47,13 +47,7 @@ body {
   animation: imageAnimation 28s linear infinite; 
 }
 .slideshow li:nth-child(1) { 
-    -moz-transform: scaleX(-1);
-        -o-transform: scaleX(-1);
-        -webkit-transform: scaleX(-1);
-        transform: scaleY(-1);
-        filter: FlipV;
-        -ms-filter: "FlipV";
-    background-image: url(prototyping.JPG)
+    background-image: url(cct.JPG)
 }
 .slideshow li:nth-child(2) { 
   background-image: url(img4.jpg);
@@ -64,8 +58,12 @@ body {
   animation-delay: 10s; 
 }
 .slideshow li:nth-child(4) { 
-  background-image: url(img2.jpg);
+  background-image: url(ppl.jpg);
   animation-delay: 15s; 
+}
+.slideshow li:nth-child(5) { 
+  background-image: url(img2.jpg);
+  animation-delay: 20s; 
 }
 /*.slideshow li:nth-child(5) { 
   background-image: url(kids-fun.jpg);

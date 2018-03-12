@@ -4,6 +4,9 @@
 body {
   background-color: #000;
 }
+.btn-group-lg>.btn, .btn-lg{
+  border-radius: 50px;
+}
 #landing-header {
   z-index: 1;
   position: relative;

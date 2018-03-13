@@ -80,6 +80,11 @@ header .intro-text .skills {
   font-size: 1.25em;
   font-weight: 300; 
 }
+.team-images img{
+  width: 230px;
+  height:230px;
+  border-radius: 0;
+}
 #portfolioModal7 header{
     text-align: center;
     color: #fff;

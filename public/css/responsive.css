@@ -5,6 +5,9 @@
   #portfolioModal7 header{
     background-attachment: scroll;
   }
+  #portfolioModal8 header{
+    background-attachment: scroll;
+  }
 }
 @media (min-width: 768px) {
   header .container {

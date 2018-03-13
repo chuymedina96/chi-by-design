@@ -17,7 +17,7 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-  color: #18BC9C;
+  color: #fff;
 }
 h1,
 h2,
@@ -248,14 +248,14 @@ header .intro-text .skills {
   font-size: 45px;
 }
 .navbar-custom {
-  background-color:#008FB0;
+  background-color:#fff;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
   border: none;
 }
 .navbar-custom .navbar-brand {
-  color: white;
+  color: #0070C5;
   font-family: 'Monoton', cursive;
 }
 .navbar-custom .navbar-brand:hover,
@@ -268,24 +268,24 @@ header .intro-text .skills {
   letter-spacing: 1px;
 }
 .navbar-custom .navbar-nav li a {
-  color: white;
+  color: #FF3434;
 }
 .navbar-custom .navbar-nav li a:hover {
-  color: #18BC9C;
+  color: #FF3434;
 }
 .navbar-custom .navbar-nav li a:focus,
 .navbar-custom .navbar-nav li a:active {
-  color: white;
+  color: #FF3434;
 }
 .navbar-custom .navbar-nav li.active a {
   color: white;
-  background: #18BC9C;
+  background: #FF3434;
 }
 .navbar-custom .navbar-nav li.active a:hover,
 .navbar-custom .navbar-nav li.active a:focus,
 .navbar-custom .navbar-nav li.active a:active {
   color: white;
-  background: #18BC9C;
+  background: #FF3434;
 }
 .navbar-custom .navbar-toggle {
   color: white;
@@ -500,8 +500,8 @@ fieldset[disabled] .btn-primary.active {
 }
 .btn-success {
   color: white;
-  background-color: #18BC9C;
-  border-color: #18BC9C;
+  background-color: #337ab7;
+  border-color: #337ab7;
   font-weight: 700;
 }
 .btn-success:hover,

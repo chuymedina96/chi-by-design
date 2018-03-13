@@ -1,5 +1,5 @@
 @media(max-width:414px) {
-  #portfolioModal1 header,{
+  #portfolioModal1 header{
     background-attachment: scroll;
   }
   #portfolioModal1 header h1{
@@ -23,8 +23,17 @@
   #portfolioModal4 header h1{
     background-attachment: scroll;
   }
+  #portfolioModal5 header{
+    font-size: 50px;
+  }
+  #portfolioModal5 header h1{
+    background-attachment: scroll;
+  }
   #portfolioModal6 header{
     background-attachment: scroll;
+  }
+  #portfolioModal6 header h1{
+    font-size: 50px;
   }
   #portfolioModal7 header h1{
     font-size: 50px;

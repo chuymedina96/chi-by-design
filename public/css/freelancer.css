@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Josefin+Slab');
 @import url('https://fonts.googleapis.com/css?family=Coda+Caption:800|Karma');
 body {
-  font-family: 'Karma', serif;
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   overflow-x: hidden;
 }
 p {

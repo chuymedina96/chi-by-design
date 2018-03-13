@@ -1,4 +1,31 @@
 @media(max-width:414px) {
+  #portfolioModal1 header,{
+    background-attachment: scroll;
+  }
+  #portfolioModal1 header h1{
+    font-size: 50px;
+  }
+  #portfolioModal2 header{
+    background-attachment: scroll;
+  }
+  #portfolioModal2 header h1{
+    font-size: 50px;
+  }
+  #portfolioModal3 header{
+    background-attachment: scroll;
+  }
+  #portfolioModal3 header h1{
+    font-size: 40px;
+  }
+  #portfolioModal4 header{
+    font-size: 50px;
+  }
+  #portfolioModal4 header h1{
+    background-attachment: scroll;
+  }
+  #portfolioModal6 header{
+    background-attachment: scroll;
+  }
   #portfolioModal7 header h1{
     font-size: 50px;
   }

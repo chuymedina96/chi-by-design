@@ -85,6 +85,121 @@ header .intro-text .skills {
   height:230px;
   border-radius: 0;
 }
+#portfolioModal1 header{
+    text-align: center;
+    color: #fff;
+    background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(grove-work-shop.jpg) center center no-repeat;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size:cover;
+    width:100%;
+    height: 700px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    
+}
+#portfolioModal1 button{
+  border-radius: 60px;
+  background-color: black;
+  opacity: .8;
+}
+#portfolioModal1 .glyphicon{
+  font-size: 45px;
+}
+#portfolioModal2 header{
+    text-align: center;
+    color: #fff;
+    background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(expungeio.jpg) center center no-repeat;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size:cover;
+    width:100%;
+    height: 700px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    
+}
+#portfolioModal2 button{
+  border-radius: 60px;
+  background-color: black;
+  opacity: .8;
+}
+#portfolioModal2 .glyphicon{
+  font-size: 45px;
+}
+#portfolioModal3 header{
+    text-align: center;
+    color: #fff;
+    background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(kids-fun.jpg) center center no-repeat;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size:cover;
+    width:100%;
+    height: 700px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    
+}
+#portfolioModal3 button{
+  border-radius: 60px;
+  background-color: black;
+  opacity: .8;
+}
+#portfolioModal3 .glyphicon{
+  font-size: 45px;
+}
+#portfolioModal4 header{
+    text-align: center;
+    color: #fff;
+    background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(cct-work-shop.jpg) center center no-repeat;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size:cover;
+    width:100%;
+    height: 700px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    
+}
+#portfolioModal4 button{
+  border-radius: 60px;
+  background-color: black;
+  opacity: .8;
+}
+#portfolioModal4 .glyphicon{
+  font-size: 45px;
+}
+#portfolioModal5 header{
+    text-align: center;
+    color: #fff;
+    background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(cpd-work-shop.jpg) center center no-repeat;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size:cover;
+    width:100%;
+    height: 700px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    
+}
+#portfolioModal5 button{
+  border-radius: 60px;
+  background-color: black;
+  opacity: .8;
+}
+#portfolioModal5 .glyphicon{
+  font-size: 45px;
+}
 #portfolioModal7 header{
     text-align: center;
     color: #fff;

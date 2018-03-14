@@ -17,16 +17,16 @@
   #portfolioModal3 header h1{
     font-size: 40px;
   }
-  #portfolioModal4 header{
+  #portfolioModal4 header h1{
     font-size: 50px;
   }
-  #portfolioModal4 header h1{
+  #portfolioModal4 header{
     background-attachment: scroll;
   }
-  #portfolioModal5 header{
+  #portfolioModal5 header h1{
     font-size: 50px;
   }
-  #portfolioModal5 header h1{
+  #portfolioModal5 header{
     background-attachment: scroll;
   }
   #portfolioModal6 header{
@@ -47,6 +47,9 @@
   .team-images img {
     height:290px;
     width:290px;
+  }
+  #clients h2{
+    font-size: 25px;
   }
 }
 @media (min-width: 768px) {

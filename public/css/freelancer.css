@@ -96,9 +96,10 @@ header .intro-text .skills {
   font-weight: 300; 
 }
 .team-images img{
-  width: 426px;
-  height:426px;
-  border-radius: 0;
+  width: 410px;
+  height:410px;
+  border-radius: 360px;
+  text-align:left;
 }
 #portfolioModal1 header{
     text-align: center;

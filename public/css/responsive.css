@@ -44,6 +44,10 @@
   #portfolioModal8 header{
     background-attachment: scroll;
   }
+  .team-images img {
+    height:290px;
+    width:290px;
+  }
 }
 @media (min-width: 768px) {
   header .container {

@@ -1,8 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Monoton|Rubik+Mono+One');
 @import url('https://fonts.googleapis.com/css?family=Josefin+Slab');
 @import url('https://fonts.googleapis.com/css?family=Coda+Caption:800|Karma');
+@font-face {
+  font-family: "Bebas Kai";
+  src: url(BebasKai-Regular.otf);
+}
 body {
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   overflow-x: hidden;
 }
 p {
@@ -29,24 +32,27 @@ h2,
 h3,
 h5,
 h6 {
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Bebas Kai";
   text-transform: uppercase;
   font-weight: 700;
 }
 h4{
-  font-family: "Karma", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Bebas Kai", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 500;
 }
 .team-h2{
   text-align:left;
   color: #FF3434;
+  font-family: "Bebas Kai";
+  font-size: 50px;
 }
 .team-h3{
   text-align:left;
   color: #FF3434;
+  font-family: "Bebas Kai";
 }
 #about h3 {
-  font-family: "Karma";
+  font-family: "Bebas Kai";
   text-align: left;
 }
 #learn-button{
@@ -86,10 +92,10 @@ header img {
 header .intro-text .name {
   padding-top:20px;
   display: block;
-  font-family: "Monoton", cursive;
+  font-family: "Bebas Kai", cursive;
   text-transform: uppercase;
   font-weight: 700;
-  font-size: 2em;
+  font-size: 60px;
 }
 header .intro-text .skills {
   font-size: 1.25em;
@@ -338,7 +344,8 @@ section#about{
   padding: 50px 0;
 }
 #clients h2{
-  font-size:40px;
+  font-size:55px;
+  font-family: "Bebas Kai";
 }
 /*.logo-images {
   height: 100px;
@@ -441,6 +448,7 @@ footer {
 }
 footer h3 {
   margin-bottom: 30px;
+  font-size: 40px;
 }
 footer .footer-above {
   padding-top: 50px;

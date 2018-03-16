@@ -110,7 +110,7 @@ header .intro-text .skills {
 #portfolioModal1 header{
     text-align: center;
     color: #fff;
-    background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(grove-work-shop.jpg) center center no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(../img/grove-work-shop.jpg) center center no-repeat;
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: fixed;
@@ -133,7 +133,7 @@ header .intro-text .skills {
 #portfolioModal2 header{
     text-align: center;
     color: #fff;
-    background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(expungeio.jpg) center center no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(../img/expungeio.jpg) center center no-repeat;
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: fixed;
@@ -156,7 +156,7 @@ header .intro-text .skills {
 #portfolioModal3 header{
     text-align: center;
     color: #fff;
-    background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(kids-fun.jpg) center center no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(../img/kids-fun.jpg) center center no-repeat;
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: fixed;
@@ -179,7 +179,7 @@ header .intro-text .skills {
 #portfolioModal4 header{
     text-align: center;
     color: #fff;
-    background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(cct-work-shop.jpg) center center no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(../img/cct-work-shop.jpg) center center no-repeat;
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: fixed;
@@ -202,7 +202,7 @@ header .intro-text .skills {
 #portfolioModal5 header{
     text-align: center;
     color: #fff;
-    background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(cpd-work-shop.jpg) center center no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(../img/cpd-work-shop.jpg) center center no-repeat;
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: fixed;
@@ -225,7 +225,7 @@ header .intro-text .skills {
 #portfolioModal7 header{
     text-align: center;
     color: #fff;
-    background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(img3.jpg) center center no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(../img/img3.jpg) center center no-repeat;
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: fixed;
@@ -248,7 +248,7 @@ header .intro-text .skills {
 #portfolioModal8 header{
     text-align: center;
     color: #fff;
-    background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(team.jpeg) center center no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(../img/team.jpeg) center center no-repeat;
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: fixed;
@@ -700,19 +700,19 @@ div#maincontent {
   margin-bottom: -100px;
 }
 .item{
-  background:linear-gradient(rgba(0,0,0,.1),transparent 100%),url(grove-work-shop.jpg);background-repeat:no-repeat;background-position:center center;background-attachment:scroll;background-size:cover;width:100%;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;padding-bottom:180px;text-align:center;
+  background:linear-gradient(rgba(0,0,0,.1),transparent 100%),url(../img/grove-work-shop.jpg);background-repeat:no-repeat;background-position:center center;background-attachment:scroll;background-size:cover;width:100%;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;padding-bottom:180px;text-align:center;
 }
 .two{
-  background:linear-gradient(rgba(0,0,0,.1),transparent 100%),url(expungeio.jpg);background-repeat:no-repeat;background-position:center center;background-attachment:scroll;background-size:cover;width:100%;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;padding-bottom:180px;text-align:center;
+  background:linear-gradient(rgba(0,0,0,.1),transparent 100%),url(../img/expungeio.jpg);background-repeat:no-repeat;background-position:center center;background-attachment:scroll;background-size:cover;width:100%;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;padding-bottom:180px;text-align:center;
 }
 .three{
-  background:linear-gradient(rgba(0,0,0,.1),transparent 100%),url(kids-fun.jpg);background-repeat:no-repeat;background-position:center center;background-attachment:scroll;background-size:cover;width:100%;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;padding-bottom:180px;text-align:center;
+  background:linear-gradient(rgba(0,0,0,.1),transparent 100%),url(../img/kids-fun.jpg);background-repeat:no-repeat;background-position:center center;background-attachment:scroll;background-size:cover;width:100%;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;padding-bottom:180px;text-align:center;
 }
 .four{
-  background:linear-gradient(rgba(0,0,0,.1),transparent 100%),url(cct-work-shop.jpg);background-repeat:no-repeat;background-position:center center;background-attachment:scroll;background-size:cover;width:100%;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;padding-bottom:180px;text-align:center;
+  background:linear-gradient(rgba(0,0,0,.1),transparent 100%),url(../img/cct-work-shop.jpg);background-repeat:no-repeat;background-position:center center;background-attachment:scroll;background-size:cover;width:100%;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;padding-bottom:180px;text-align:center;
 }
 .five{
-  background:linear-gradient(rgba(0,0,0,.1),transparent 100%),url(cpd-work-shop.jpg);background-repeat:no-repeat;background-position:center center;background-attachment:scroll;background-size:cover;width:100%;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;padding-bottom:180px;text-align:center;
+  background:linear-gradient(rgba(0,0,0,.1),transparent 100%),url(../img/cpd-work-shop.jpg);background-repeat:no-repeat;background-position:center center;background-attachment:scroll;background-size:cover;width:100%;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;padding-bottom:180px;text-align:center;
 }
 .btn{
   margin-top: 20px;

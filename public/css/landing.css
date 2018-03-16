@@ -1,6 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Baloo+Bhaijaan|Oswald|Roboto|Ubuntu');
-
 @import url('https://fonts.googleapis.com/css?family=Monoton|Rubik+Mono+One');
+@font-face {
+  font-family: "Bebas Kai";
+  src: url(BebasKai-Regular.otf);
+}
 body {
   background-color: #000;
 }

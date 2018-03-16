@@ -50,22 +50,22 @@ body {
   animation: imageAnimation 28s linear infinite; 
 }
 .slideshow li:nth-child(1) { 
-    background-image: url(cct.JPG)
+    background-image: url(../img/cct.JPG)
 }
 .slideshow li:nth-child(2) { 
-  background-image: url(img4.jpg);
+  background-image: url(../img/img4.jpg);
   animation-delay: 5s; 
 }
 .slideshow li:nth-child(3) { 
-  background-image: url(laptop.jpg);
+  background-image: url(../img/laptop.jpg);
   animation-delay: 10s; 
 }
 .slideshow li:nth-child(4) { 
-  background-image: url(ppl.JPG);
+  background-image: url(../img/ppl.JPG);
   animation-delay: 15s; 
 }
 .slideshow li:nth-child(5) { 
-  background-image: url(img2.jpg);
+  background-image: url(../img/img2.jpg);
   animation-delay: 20s; 
 }
 /*.slideshow li:nth-child(5) { 

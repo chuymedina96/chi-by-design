@@ -347,10 +347,6 @@ section#about{
   font-size:55px;
   font-family: "Bebas Kai";
 }
-/*.logo-images {
-  height: 100px;
-  width: 350px;
-}*/
 #portfolio .portfolio-item {
   margin: 0 0 15px;
   right: 0;
@@ -723,3 +719,23 @@ div#maincontent {
 .case-title{
   font-size: 45px;
 }
+#logos img:hover{
+  border: 2px solid #0070C5;
+  color: white;
+}
+#logos img{
+  width: 270.5px;
+  height: 110.19px;
+  border: 2px solid red;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+#logos .future-project img{
+  height: 200px;
+  width: 380px;
+}
+#logos .free-lunch img{
+  height: 200px;
+  width: 380px;
+}
+

@@ -56,8 +56,13 @@ h4{
   text-align: left;
 }
 #learn-button{
-  border-radius: 50px;
+  border-radius: 360px;
+  background-color: #0070C5;
   border-color: none;
+
+}
+#learn-button:hover{
+  background-color: #0070C5;
 }
 .img-centered {
   margin: 0 auto;
@@ -125,6 +130,7 @@ header .intro-text .skills {
 #portfolioModal1 button{
   border-radius: 60px;
   background-color: black;
+  color:white;
   opacity: .8;
 }
 #portfolioModal1 .glyphicon{
@@ -148,6 +154,7 @@ header .intro-text .skills {
 #portfolioModal2 button{
   border-radius: 60px;
   background-color: black;
+  color: #fff;
   opacity: .8;
 }
 #portfolioModal2 .glyphicon{
@@ -171,6 +178,7 @@ header .intro-text .skills {
 #portfolioModal3 button{
   border-radius: 60px;
   background-color: black;
+  color: #fff;
   opacity: .8;
 }
 #portfolioModal3 .glyphicon{
@@ -194,6 +202,7 @@ header .intro-text .skills {
 #portfolioModal4 button{
   border-radius: 60px;
   background-color: black;
+  color: #fff;
   opacity: .8;
 }
 #portfolioModal4 .glyphicon{
@@ -217,6 +226,7 @@ header .intro-text .skills {
 #portfolioModal5 button{
   border-radius: 60px;
   background-color: black;
+  color: #fff;
   opacity: .8;
 }
 #portfolioModal5 .glyphicon{
@@ -240,6 +250,7 @@ header .intro-text .skills {
 #portfolioModal7 button{
   border-radius: 60px;
   background-color: black;
+  color: #fff;
   opacity: .8;
 }
 #portfolioModal7 .glyphicon{
@@ -263,6 +274,7 @@ header .intro-text .skills {
 #portfolioModal8 button{
   border-radius: 60px;
   background-color: black;
+  color: #fff;
   opacity: .8;
 }
 #portfolioModal8 .glyphicon{
@@ -286,6 +298,7 @@ header .intro-text .skills {
 #portfolioModal9 button{
   border-radius: 60px;
   background-color: black;
+  color: #fff;
   opacity: .8;
 }
 #portfolioModal9 .glyphicon{

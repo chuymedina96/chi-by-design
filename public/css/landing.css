@@ -21,6 +21,11 @@ body {
   font-size: 100px;
   font-family: 'Monoton', cursive;
 }
+.landing h4 {
+    color: #fff;
+    font-size: 20px;
+    font-family: 'Baloo Bhaijaan', cursive;
+  }
 .views{
   font-family: 'Baloo Bhaijaan', cursive;
   font-weight: 100;
@@ -102,6 +107,11 @@ body {
   #landing-header h1 {
     color: #fff;
     font-size: 70px;
+    font-family: 'Monoton', cursive;
+  }
+  .landing h4 {
+    color: #fff;
+    font-size: 20px;
     font-family: 'Monoton', cursive;
   }
 }

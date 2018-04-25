@@ -901,3 +901,8 @@ audio{
 .header-btn{
     background-color: #EB1400;
 }
+.logo-icons img{
+  height: 250px;
+  width:250px;
+  text-align: center;
+}
